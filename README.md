@@ -1,4 +1,5 @@
 ## Se você é curioso continue vasculhando meu perfil '_' 👋
+[![My Skills](https://skillicons.dev)](https://skillicons.dev)
 
 <!--
 **victorestudosh/victorestudosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
